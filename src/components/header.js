@@ -1,7 +1,7 @@
 import React from 'react';
 
-const header = () => {
+export const Header = () => {
   return <h2>Expense Tracker</h2>;
 };
 
-export default header;
+// export default Header;
